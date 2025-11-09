@@ -11,14 +11,6 @@ A lightweight Python CLI tool that fetches real-time crypto prices using the pub
 
 Clone the repo and install dependencies in a virtual environment:
 
-## Sample Output 
-
-💹 Crypto Tracker CLI
-----------------------
-Bitcoin   : $96720
-Ethereum  : $3540
-Solana    : $139
-Cardano   : $0.43
 
 ```bash
 git clone https://github.com/teuusername/crypto-tracker-cli.git
